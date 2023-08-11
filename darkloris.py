@@ -5,9 +5,6 @@
     =======================
     SLOW LORIS LAYER 7 DDOS
         ON EEPSITES
-
-    by Christopher Käck
-    
 """
 
 import socket, socks, sys, threading
